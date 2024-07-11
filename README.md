@@ -9,13 +9,10 @@ This project aims to detect user movement, phone direction, and distinguish betw
 Ensure you have the following libraries installed:
 - pandas
 - numpy
-- matplotlib
-- seaborn
-- scikit-learn
 
 You can install these libraries using pip:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas numpy
 ```
 
 ### Installation
