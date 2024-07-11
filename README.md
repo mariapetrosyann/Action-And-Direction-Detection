@@ -33,8 +33,7 @@ pip install pandas numpy
 2. Open and run all cells in the Jupyter Notebook to execute the code, generate the dataset, and analyze user activity.
 
 ### Running on Google Colab
-1. Open the provided Google Colab link in the main code (7th row in `IndoorNavigation_ActionAndDirection.py` project directory).
-2. Run all cells to see the visualizations and evaluations.
+ Open the provided Google Colab link in the main code (7th row in `IndoorNavigation_ActionAndDirection.py` project directory).
 
 
 ## Libraries and Functions Used
